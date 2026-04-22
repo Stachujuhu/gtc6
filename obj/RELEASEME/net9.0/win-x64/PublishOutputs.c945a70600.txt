@@ -1,0 +1,5 @@
+C:\Users\Staso\GTC6\gtc6-1.0.0\gtc6-1.0.0\bin\RELEASEME\net9.0\win-x64\publish\GTC6.pdb
+C:\Users\Staso\GTC6\gtc6-1.0.0\gtc6-1.0.0\bin\RELEASEME\net9.0\win-x64\publish\av_libglesv2.dll
+C:\Users\Staso\GTC6\gtc6-1.0.0\gtc6-1.0.0\bin\RELEASEME\net9.0\win-x64\publish\libHarfBuzzSharp.dll
+C:\Users\Staso\GTC6\gtc6-1.0.0\gtc6-1.0.0\bin\RELEASEME\net9.0\win-x64\publish\libSkiaSharp.dll
+C:\Users\Staso\GTC6\gtc6-1.0.0\gtc6-1.0.0\bin\RELEASEME\net9.0\win-x64\publish\GTC6.exe

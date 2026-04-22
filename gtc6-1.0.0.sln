@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTC6", "GTC6.csproj", "{EFAC0513-234A-300F-1EE4-557F7E6A1F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAC0513-234A-300F-1EE4-557F7E6A1F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAC0513-234A-300F-1EE4-557F7E6A1F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAC0513-234A-300F-1EE4-557F7E6A1F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAC0513-234A-300F-1EE4-557F7E6A1F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FB3CFD1-1A3C-426E-9375-09C5FFA74C6D}
+	EndGlobalSection
+EndGlobal

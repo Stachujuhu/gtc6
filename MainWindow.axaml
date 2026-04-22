@@ -1,0 +1,22 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="GTC6.MainWindow"
+        KeyDown="OnKeyDown"
+        Width="800" Height="800"
+        Title="GTC6">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right"><TextBlock x:Name="cords" Background="Transparent"/><TextBlock x:Name="money" Background="Transparent"/></StackPanel>
+        <Canvas x:Name="map" Width="800" Height="800">
+        <Image Source="Assets/bg.jpg" Width="800" Height="800"/>
+            <Canvas Width="200" Height="200" Canvas.Top="100" Canvas.Left="100" x:Name="car" IsVisible="False">
+                <Image Source="Assets/car1.jpg" Width="200" Height="200" x:Name="picture"/>
+            </Canvas>
+            <Canvas x:Name="player" Width="80" Height="80" Canvas.Top="600" Canvas.Left="400">
+                <Image Source="Assets/cj.jpg" Width="80" Height="80" x:Name="playernam"/>
+            </Canvas>
+        </Canvas>
+    </StackPanel>
+</Window>

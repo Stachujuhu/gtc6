@@ -1,0 +1,5 @@
+/home/lenovo/GTC6/bin/Release/net9.0/win-x64/publish/GTC6.pdb
+/home/lenovo/GTC6/bin/Release/net9.0/win-x64/publish/av_libglesv2.dll
+/home/lenovo/GTC6/bin/Release/net9.0/win-x64/publish/libHarfBuzzSharp.dll
+/home/lenovo/GTC6/bin/Release/net9.0/win-x64/publish/libSkiaSharp.dll
+/home/lenovo/GTC6/bin/Release/net9.0/win-x64/publish/GTC6.exe
